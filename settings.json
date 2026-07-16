@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CASE1985-1p7q.aternos.me",
-    "port": 56967,
+    "ip": "CASE1985.aternos.me",
+    "port": 27942,
     "version": "1.21.11",
     "try-creative": false
   },
