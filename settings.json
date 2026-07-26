@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CASE1985.aternos.me",
-    "port": 27942,
-    "version": "1.21.11",
-    "try-creative": false
+    "ip": "CASE1985-TMJe.aternos.me",
+    "port": 24350,
+    "version": "26.2",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
